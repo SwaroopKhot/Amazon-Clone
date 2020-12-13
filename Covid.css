@@ -1,0 +1,47 @@
+.covid{
+	margin:10px;
+	padding:5px;
+}
+
+.covid>h2{
+	margin-bottom: 40px;
+}
+
+.covid_title{
+	text-align: center;
+	font-family:  Lucida Calligraphy;
+}
+
+
+.covid_employ{
+	border:1px solid lightgray;
+	margin-bottom: 20px;
+}
+
+.covid_employ>h3{
+	padding:5px;
+}
+
+.covid_emp_banner{
+	width:100%;
+	object-fit: contain;
+	padding:5px;
+}
+
+.covid_row{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	border-bottom: 1px solid black;
+	margin:5px;
+}
+
+
+
+
+@media (max-width:570px) {
+	.covid_row{
+		flex-direction: column;
+		text-align: center;
+	}
+}

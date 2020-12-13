@@ -1,0 +1,39 @@
+.homedecor{
+	background-color: rgb(230, 230, 230);
+	padding: 6px 0px;
+}
+
+
+.homedecor_align{
+	display: flex;
+	flex-direction: column;
+	background-color:rgb(230, 230, 230);
+	margin: 10px;
+	padding: 10px;
+
+}
+
+.homedecor_title{
+	border-bottom: 1px solid #a6a6a6;
+	margin:0px 10px;
+}
+
+.home_title{
+	font-weight: 600;
+	font-size: 19px;
+	font-family: inherit;
+}
+
+.homedecor_products{
+	display: flex;
+	flex-direction:row;
+	background-color: rgb(230, 230, 230);
+}
+
+
+@media (max-width: 850px){
+	.homedecor_products{
+		display: flex;
+		flex-direction: column;
+	}	
+}

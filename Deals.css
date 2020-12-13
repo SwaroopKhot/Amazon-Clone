@@ -1,0 +1,10 @@
+.deals{
+	margin:5px;
+	padding:5px;
+}
+
+.deal_img{
+	width:100%;
+	object-fit: contain;
+	margin-bottom: 20px;
+}

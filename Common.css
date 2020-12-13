@@ -1,0 +1,39 @@
+.common{
+	background-color: rgb(230, 230, 230);
+	padding: 6px 0px;
+}
+
+
+.common_align{
+	display: flex;
+	flex-direction: column;
+	background-color:rgb(230, 230, 230);
+	margin: 10px;
+	padding: 10px;
+
+}
+
+.common_title{
+	border-bottom: 1px solid #a6a6a6;
+	margin:0px 10px;
+}
+
+.com_title{
+	font-weight: 600;
+	font-size: 19px;
+	font-family: inherit;
+}
+
+.common_products{
+	display: flex;
+	flex-direction:row;
+	background-color: rgb(230, 230, 230);
+}
+
+@media (max-width: 850px){
+	.common_products{
+		display: flex;
+		flex-direction: column;
+	}	
+}
+
