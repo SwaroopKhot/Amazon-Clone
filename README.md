@@ -3,8 +3,8 @@ Amazon-clone | Reactjs | Redux | DOM | Deployed at : https://cloned-70cf9.web.ap
 
 #
 ### Note:
-<b>This site is suitable for mobiles, Tabs and Desktop or laptops.</b>
-<b>In this repo, you might not see all functionality because full source code is not uploaded. Take a look to deployed app: <i>https://cloned-70cf9.web.app</i> to spot the difference. </b>
+This site is suitable for mobiles, Tabs and Desktop or laptops.<br>
+In this repo, you might not see all functionality because full source code is not uploaded. Take a look to deployed app: <i>https://cloned-70cf9.web.app</i> to spot the difference.
 
 #
 # Adding Screenshots: 
