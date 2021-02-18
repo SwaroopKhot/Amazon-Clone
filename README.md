@@ -8,6 +8,6 @@ Amazon-clone | Reactjs | Redux | DOM | Deployed at : https://cloned-70cf9.web.ap
 
 #
 ### 2. Products and Cart-Items: <br>
--- Add avaiable products like (books,mobiles,clothes,TV,groceries,etc)
--- Add products to cart and purchase them Virtually!
+-- Add avaiable products like (books,mobiles,clothes,TV,groceries,etc) <br>
+-- Add products to cart and purchase them Virtually! <br>
 ![group1](https://user-images.githubusercontent.com/68990620/108316616-252aaa00-71e3-11eb-8418-1eb83401701f.png)
