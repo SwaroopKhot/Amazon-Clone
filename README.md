@@ -18,8 +18,8 @@ In this repo, you might not see all functionality because full source code is no
 #
 ![group1](https://user-images.githubusercontent.com/68990620/108316616-252aaa00-71e3-11eb-8418-1eb83401701f.png)
 
-#
 ### 3. Make Payment:
+--Fill free to make the <b>Fake payment (use random numbers/Holder name/ Exp date ,etc)</b>. Even tough none of the information is stored.<br>
 ![group2](https://user-images.githubusercontent.com/68990620/108316879-805c9c80-71e3-11eb-87b7-2fbf504fed85.png)
 
 #
